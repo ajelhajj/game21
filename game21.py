@@ -1,8 +1,3 @@
-# Andrea Elhajj
-# 2/20/2019
-# CS 021
-# Assignment 6; Problem 2
-
 from random import randint
 
 def roll_dice(): #simulate the rolling of six-sided dice
